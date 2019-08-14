@@ -1,0 +1,25 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennibirsan/calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennibirsan/calendar/issues"
+  },
+  "homepage": "https://github.com/jennibirsan/calendar#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "tui-calendar": "^1.12.4"
+  },
+  "devDependencies": {}
+}
